@@ -1,0 +1,73 @@
+body {
+    color: darkred;
+    font-family: fantasy;
+    margin: 0em;
+    padding: 10px;
+    border: 15px solid black;
+    padding-top: 10px;
+    background-color:white;
+}
+p {
+    color: darkblue;
+    font-size: 1.1em;
+    line-height: normal;
+}
+.List {
+    color: darkblue;
+}
+
+.Legende {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+a:visited{
+    color: darkred;
+}
+.Image{
+    float: left;
+    padding-right: 30px;
+    clear: both;
+}
+.Hiraganap{
+    background-color: #fdf3f5;
+    padding: 30px;
+    padding-top: 10px;
+}
+.Katakanap{
+    background-color: #fef7f0;
+    padding: 30px;
+    padding-top: 10px;
+}
+.P1 {
+    background-color: aliceblue;
+    padding: 30px;
+    padding-top: 10px;
+}
+.Empty{
+    border-top: 0ch;
+}
+
+
+
+
+.Table{
+    color: darkblue;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    empty-cells: hide;
+    border-bottom: 0px;
+}
+th {
+    font: bold;
+    background-color: lightgray;
+}
+.Last{
+    border-bottom: 1px solid black;
+}
